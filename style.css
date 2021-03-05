@@ -1,0 +1,32 @@
+h1{
+    color:#eaea07;
+}     
+
+/* *{
+   border: solid
+}*/
+.header{
+     background-color: #11fa09;
+     display: flex;
+     justify-content: space-between;
+}
+.grid{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+ p{
+    text-align: center;
+    color: rgb(206, 238, 22);
+}
+h2{
+    text-align: center;
+    color: rgb(0, 60, 255);
+}
+body{
+    background-color: #dc8514;
+}
